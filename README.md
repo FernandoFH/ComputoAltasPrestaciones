@@ -1,6 +1,6 @@
 <h2 align="center"> CÓMPUTO DE ALTAS PRESTACIONES </b> 💛</h2>
 
-  1) Fundamentos de Procesamiento Paralelo
+  1) [Fundamentos de Procesamiento Paralelo](./FundamentosProcesamientoParalelo)
   2) Arquitecturas para cómputo de altas prestaciones
   3) Programación Paralela sobre Arquitecturas Multiprocesador
   4) Conceptos de Cloud, Fog y Edge Computing
