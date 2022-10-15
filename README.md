@@ -1,7 +1,7 @@
 <h2 align="center"> CÓMPUTO DE ALTAS PRESTACIONES </b> 💛</h2>
 
-  5) Administración de Recursos en Sistemas de Cómputo de Altas Prestaciones
-  7) Taller de Programación sobre Arquitecturas Paralelas Avanzadas 
+  5) [Administración de Recursos en Sistemas de Cómputo de Altas Prestaciones](./AdministracionRecursosSistemasAltasPrestaciones)
+  7) [Taller de Programación sobre Arquitecturas Paralelas Avanzadas](./TallerProgArquitecturasParalelas)
 
 --- 
   1) [Fundamentos de Procesamiento Paralelo](./FundamentosProcesamientoParalelo)
