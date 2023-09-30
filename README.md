@@ -9,4 +9,7 @@
   7) [Taller de Programación sobre Arquitecturas Paralelas Avanzadas](./TallerProgArquitecturasParalelas)
   8) Tolerancia a Fallas en Sistemas de Cómputo de Altas Prestaciones
   9) [Gobernanza y Gestión de Tecnologías de la Información](./Gobernanza_Gestion_Tecnologias_de_la_Informacion)
-  I) [Self Taught Embedded Software Engineer](https://github.com/FernandoFH/Embedded.Systems.Playground)
+
+
+
+     [Self Taught Embedded Software Engineer](https://github.com/FernandoFH/Embedded.Systems.Playground)
