@@ -13,3 +13,6 @@
 
 
      [Self Taught Embedded Software Engineer](https://github.com/FernandoFH/Embedded.Systems.Playground)
+
+--- 
+- [Hands-On GPU Programming with Python and CUDA](https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-Python-and-CUDA)
