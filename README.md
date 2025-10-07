@@ -1,8 +1,4 @@
-
-
-#### Computación Paralela. Aplicaciones en Bioinformática
-
-
+#### [Computación Paralela. Aplicaciones en Bioinformática](./ComputacionParalelaAppBioinformatica/README.md)
 
 <h2 align="center"> CÓMPUTO DE ALTAS PRESTACIONES </b> 💛</h2>
 
