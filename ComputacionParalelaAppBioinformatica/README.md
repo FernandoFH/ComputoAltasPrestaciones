@@ -45,9 +45,13 @@ ____
     Análisis de algoritmos y aplicaciones paralelas en bioinformática. Alineamiento de secuencias
     (proteínas y ADN). Alineamiento de short reads. Métodos y modelos filogenéticos. Acoplamiento
     molecular.
+_____
 
+### BOOK
 
+- Introduction to High Performance Computing for Scientists and Engineers (Chapman & Hall/CRC Computational Science)
+- Parallel Programming for Multicore and Cluster Systems
+- Algorithms in Bioinformatics: Theory and Implementation
 
-Análisis de algoritmos y aplicaciones paralelas en bioinformática. Alineamiento de secuencias
-(proteínas y ADN). Alineamiento de short reads. Métodos y modelos filogenéticos. Acoplamiento
-molecular.
+### - Stanford CS149 I Parallel Computing
+         - https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp
