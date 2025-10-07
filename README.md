@@ -1,4 +1,11 @@
+
+
+#### Computación Paralela. Aplicaciones en Bioinformática
+
+
+
 <h2 align="center"> CÓMPUTO DE ALTAS PRESTACIONES </b> 💛</h2>
+
 
   1) [Fundamentos de Procesamiento Paralelo](./FundamentosProcesamientoParalelo)
   2) [Arquitecturas para cómputo de altas prestaciones](./ArquitecturasComputoAltasPrestaciones)
