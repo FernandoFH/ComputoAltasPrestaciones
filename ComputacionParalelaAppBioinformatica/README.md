@@ -1,8 +1,7 @@
-**INICIO:** LUNES 13/10 - 17.15hs
-**Duración:**  Del 13/10 al 19/11. El 17/12 se realiza la defensa de trabajos.
-**Días y horarios:** Lunes y miércoles de 17:15 a 19:30hs.
-
-
+- **INICIO:** LUNES 13/10 - 17.15hs
+- **Duración:**  Del 13/10 al 19/11. El 17/12 se realiza la defensa de trabajos.
+- **Días y horarios:** Lunes y miércoles de 17:15 a 19:30hs.
+____
 
 #### Unidad 1: Conceptos básicos
     Paralelismo. Objetivos del procesamiento paralelo.
