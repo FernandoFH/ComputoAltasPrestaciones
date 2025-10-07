@@ -1,6 +1,7 @@
 #### [Computación Paralela. Aplicaciones en Bioinformática](./ComputacionParalelaAppBioinformatica/README.md)
 
-#### Arquitectura y Diseño de Software
+#### [Arquitectura y Diseño de Software](./ComputacionParalelaAppBioinformatica/README.md)
+
 
 <h2 align="center"> CÓMPUTO DE ALTAS PRESTACIONES </b> 💛</h2>
 
