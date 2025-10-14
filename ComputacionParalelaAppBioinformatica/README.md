@@ -53,5 +53,10 @@ _____
 - Parallel Programming for Multicore and Cluster Systems
 - Algorithms in Bioinformatics: Theory and Implementation
 
-### Stanford CS149 I Parallel Computing
-         - https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp
+### Stanford CS149 I Parallel Computing | [Playlist]( https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
+
+___
+
+#### Clase 1 : Conceptos básicos
+
+El procesamiento paralelo, 
