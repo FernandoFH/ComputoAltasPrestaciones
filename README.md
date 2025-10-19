@@ -16,9 +16,14 @@
   8) Tolerancia a Fallas en Sistemas de Cómputo de Altas Prestaciones
   9) [Gobernanza y Gestión de Tecnologías de la Información](./Gobernanza_Gestion_Tecnologias_de_la_Informacion)
 
-
-
-     [Self Taught Embedded Software Engineer](https://github.com/FernandoFH/Embedded.Systems.Playground)
-
 --- 
 - [Hands-On GPU Programming with Python and CUDA](https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-Python-and-CUDA)
+- [Self Taught Embedded Software Engineer](https://github.com/FernandoFH/Embedded.Systems.Playground)
+
+--- 
+### NPTEL IIT
+
+- Multi-Core Computer Architecture - NPTEL IIT | [Playlist](https://www.youtube.com/playlist?list=PLwdnzlV3ogoUT7g3BySY2QQesG3eB4dss) | 50 Videos
+- Parallel Computer Architecture - NPTEL IIT | [Playlist](https://www.youtube.com/playlist?list=PLwdnzlV3ogoVhxIHSJymwtRM34ULGqpE5) | 67 Videos
+- GPU Architectures and Programming  - NPTEL IIT |   [Playlist](https://www.youtube.com/playlist?list=PLbRMhDVUMngfj_NXI7jqMYLnhcRhRKAGq) | 64 Videos
+- Applied Accelerated Artificial Intelligence - NPTEL IIT | [Playlist](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9LibNqhhCYLDvfVGhcRDN4) | 57 Videos
